@@ -1,4 +1,25 @@
-# App
+# GFP - Gerenciamento de Finanças Pessoais
+
+## Git fLow Configuration
+
+```bsh
+$ git flow init
+Initialized empty Git repository in C:/gitHub/app_gfp/.git/
+No branches exist yet. Base branches must be created now.
+Branch name for production releases: [master] 
+Branch name for "next release" development: [develop] 
+
+How to name your supporting branch prefixes?
+Feature branches? [feature/] 
+Bugfix branches? [bugfix/] 
+Release branches? [release/] 
+Hotfix branches? [hotfix/] 
+Support branches? [support/] 
+Version tag prefix? [] 
+Hooks and filters directory? [C:/gitHub/app_gfp/.git/hooks]
+```
+
+## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
