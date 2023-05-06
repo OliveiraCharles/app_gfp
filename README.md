@@ -1,5 +1,9 @@
 # GFP - Gerenciamento de Finanças Pessoais
 
+## Figma
+
+[link](https://www.figma.com/file/pDzKQp1JgX2uJHe9hlUvVE/GFP-Landing-Page?type=design&node-id=0-1&t=5P8O614b30e2ZWNe-0)
+
 ## Git fLow Configuration
 
 ```bsh
